@@ -5,7 +5,9 @@
 ## WicketKeeper.json- All Wicket Keepers( Dont put batsman here )
 ## AllRounder.json- All Rounders here- (Only put perfect all rounders like Ravindra Jadeja, not like Virat Kohli) 
 
-## Write the cricket players you know here in this format - `'PlayerName',` and the scroll down and commit changes, 
+
+
+# Write the cricket players you know here in this format - `'PlayerName',` and the scroll down and commit changes, 
 ## DONT REPEAT THE PLAYER NAMES 
 ## DONT PUT FAKE AND SHIT NAMES
 ## DONT PUT OLD RETIRED PLAYERS, ITS OK IF U PUT THE PLAYERS WHO RETIRED RECENTLY LIKE MS DHONI, ABD VILLIERS ETC...
