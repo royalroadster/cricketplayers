@@ -35,7 +35,7 @@
   'Joe Root',
   'Chris Gayle',
   'Babar Azam',
-] 'Devon Conway',
+  'Devon Conway',
   'Haseeb Hameed',
   'Dawid Malan',
   'Aiden Markaram',
@@ -133,5 +133,7 @@
    'Chris Lynn',
    'Mohammad Hafeez',
    'David Miller',
+  
+  ] 
    
    
