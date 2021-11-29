@@ -7,7 +7,7 @@
 
 
 
-# Write the cricket players you know here in this format - `'PlayerName',` and the scroll down and commit changes, 
+# Write the cricket players you know here in this format - `'PlayerName',` and then scroll down and propose changes, Then create a pull request too so it will work, 
 ## DONT REPEAT THE PLAYER NAMES 
 ## DONT PUT FAKE AND SHIT NAMES
 ## DONT PUT OLD RETIRED PLAYERS, ITS OK IF U PUT THE PLAYERS WHO RETIRED RECENTLY LIKE MS DHONI, ABD VILLIERS ETC...
